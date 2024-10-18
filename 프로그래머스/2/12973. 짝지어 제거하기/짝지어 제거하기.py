@@ -1,7 +1,4 @@
 def solution(s):
-    if len(s) == 0:
-        return 1
-
     c = []
 
     for char in s:
